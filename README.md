@@ -1,1 +1,1 @@
-# backbone-javascript-library
+# backbone
